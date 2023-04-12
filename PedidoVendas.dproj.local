@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/21 12:23:33.000.834,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 12:23:34.000.200,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2023/03/21 12:24:16.000.715,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2023/03/21 12:24:16.000.878,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2023/03/21 14:04:21.000.788,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 14:04:22.000.294,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2023/04/06 10:09:59.000.286,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/06 10:22:33.000.361,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\ufrPedidoVendas.dfm=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/06 10:22:33.000.361,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\ufrPedidoVendas.pas=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/06 10:22:38.000.735,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\PedidoVendas.dproj=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/08 18:05:03.000.938,=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.pas</Transaction>
+    <Transaction>2023/04/08 18:05:14.000.906,=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.pas</Transaction>
+    <Transaction>2023/04/08 18:05:45.000.598,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\ufrBuscarProduto.pas=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.pas</Transaction>
+    <Transaction>2023/04/08 18:05:45.000.598,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\ufrBuscarProduto.dfm=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.dfm</Transaction>
+    <Transaction>2023/04/08 19:49:01.000.666,=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.pas</Transaction>
+    <Transaction>2023/04/08 19:49:16.000.890,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\ufrBuscarCliente.dfm=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.dfm</Transaction>
+    <Transaction>2023/04/08 19:49:16.000.890,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\ufrBuscarCliente.pas=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.pas</Transaction>
+    <Transaction>2023/04/08 19:50:05.000.198,=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.pas</Transaction>
+    <Transaction>2023/04/08 19:50:21.000.115,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendasUnit1.dfm=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.dfm</Transaction>
+    <Transaction>2023/04/08 19:50:21.000.115,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendasUnit1.pas=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\Unit1.pas</Transaction>
+    <Transaction>2023/04/08 19:50:29.000.775,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendas.dfm=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendasUnit1.dfm</Transaction>
+    <Transaction>2023/04/08 19:50:29.000.775,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendas.pas=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendasUnit1.pas</Transaction>
+    <Transaction>2023/04/08 20:09:06.000.172,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendas.pas=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\libmysql.pas</Transaction>
+    <Transaction>2023/04/08 20:09:06.000.172,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendas.dfm=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\libmysql.dfm</Transaction>
+    <Transaction>2023/04/08 20:09:24.000.564,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\libmysql.dll=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendas.dll</Transaction>
+    <Transaction>2023/04/08 20:09:24.000.564,D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\libmysql.dfm=D:\NOVO DRIVE\LUCAS GERHARDT\Reestruturação\VAGAS\WK Tecnology - Desenvolvedor Especialista Delphi\Teste2\udmPedidoVendas.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
